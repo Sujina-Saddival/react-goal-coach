@@ -1,9 +1,10 @@
 import React, {Component} from 'react';
 
 class App extends Component {
+
   render(){
     return(
-      <div>Goal</div>
+      <div>Its Home<a href='#/sign_in'>Click here to sign in </a></div>
     )
   }
 }
